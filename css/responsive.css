@@ -47,6 +47,14 @@
     
   }
   /* service section end */
+  /* contact section start */
+  .contactText h2{
+    font-size: 36px;
+    font-weight: 700;
+    
+    
+}
+  /* contact section end */
 
 }
 
@@ -96,8 +104,16 @@
   }
   /* service section end */
 
-  /* header section start */
-  /* header section end */
+  /* contact section start */
+  .contactText h2{
+    font-size: 36px;
+    font-weight: 700;
+    
+    
+}
+  /* contact section end */
+
+
   /* header section start */
   /* header section end */
 }
