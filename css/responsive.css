@@ -36,6 +36,17 @@
   }
 
   /* banner section end */
+   /* service section start */
+  .serviceText h3{
+    font-size: 24px;
+    font-weight: 700;
+  }
+  .serviceText p{
+    font-size: 12px;
+    font-weight: 400;
+    
+  }
+  /* service section end */
 
 }
 
@@ -73,8 +84,18 @@
   /* banner section end */
 
 
-  /* header section start */
-  /* header section end */
+  /* service section start */
+  .serviceText h3{
+    font-size: 24px;
+    font-weight: 700;
+  }
+  .serviceText p{
+    font-size: 12px;
+    font-weight: 400;
+
+  }
+  /* service section end */
+
   /* header section start */
   /* header section end */
   /* header section start */
