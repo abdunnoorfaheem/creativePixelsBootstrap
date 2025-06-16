@@ -97,8 +97,45 @@ p {
 }
 /* banner section style end */
 
-/* header section style start */
-/* header section style end */
+/* works section style start */
+#worksPart{
+    background: #000;
+    opacity: 0.8;
+    padding: 50px 0;
+    color: #fff;
+}
+.worksFlex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.worksTitle{
+    font-size: 48px;
+    font-weight: 800;
+    padding-bottom: 40px;
+}
+.workItem h5{
+    width: 62px;
+    height: 55px;
+    background: #4CB5CE;
+    border-radius: 16px;
+}
+.workItem h4{
+    font-size: 24px;
+    font-weight: 800;
+    width: 194px;
+    line-height: 120%;
+     padding-top: 12px;
+}
+.workItem p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    padding-top: 12px;
+}
+/* works section style end */
+
+
 /* header section style start */
 /* header section style end */
 /* header section style start */
